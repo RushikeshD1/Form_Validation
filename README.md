@@ -12,3 +12,11 @@ This project implements a simple sign-up form using React, Formik and Yup. The f
 - **Confirm Password Validation**: The confirm password field must match the password field to validate.
 - **Submit Button State**: The submit button is initially disabled and enables only when valid input is provided in all fields.
 - **Error Messages**: Displays error messages directly within input fields to guide users.
+
+## Dependences
+
+This project uses the following dependencies:
+
+- **Formik**: For managing form state and validation.
+- **Yup**: For schema validation with Formik.
+- **Tailwind CSS**: A utility-first CSS framework for styling the application.
